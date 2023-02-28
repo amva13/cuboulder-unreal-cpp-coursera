@@ -33,7 +33,7 @@ int main()
 		std::printf("N\n");
 		std::printf("O\n");
 		std::printf("F\n");
-		std::printf("N\n");
+		std::printf("Ne\n");
 		// Don't add or modify any code below
 		// this comment
 		std::getline(std::cin, Input);
