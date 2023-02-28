@@ -2,3 +2,8 @@ myFirstScript/*
 !myFirstScript/Content
 !myFirstScript/Source
 .vscode/
+.DS_Store
+ProgrammingAssignment1/*
+!ProgrammingAssignment1/ProgrammingAssignment1/
+ProgrammingAssignment1/ProgrammingAssignment1/*
+!ProgrammingAssignment1/ProgrammingAssignment1/ProgrammingAssignment1.cpp
