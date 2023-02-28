@@ -1,0 +1,4 @@
+myFirstScript/*
+!myFirstScript/Content
+!myFirstScript/Source
+.vscode/
